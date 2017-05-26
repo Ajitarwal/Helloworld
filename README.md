@@ -1,3 +1,4 @@
 # Helloworld
 just an another repository
-i have a programming in git
+i am a programming in git.
+sorry for truble mistakes.
